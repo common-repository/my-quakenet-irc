@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kw-irc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-10 20:42+0100\n"
+"PO-Revision-Date: 2011-08-10 20:47+0100\n"
+"Last-Translator: Laurent <pixcontrolpc@gmail.com>\n"
+"Language-Team: Laurent Bertrand <kwark@allwebtuts.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: my-quakenet-irc/my_quake_net_irc.php:50
+msgid "QuakeNet IRC"
+msgstr "QuakeNet IRC"
+
+#: my-quakenet-irc/my_quake_net_irc.php:66
+msgid "Options sauvegard&eacute;es."
+msgstr "Options saved"
+
+#: my-quakenet-irc/my_quake_net_irc.php:79
+msgid "Infos irc"
+msgstr "IRC Infos"
+
+#: my-quakenet-irc/my_quake_net_irc.php:82
+msgid "<br />&nbsp;<br />Pour cr&eacute;er votre channel, rendez-vous sur <a href=\"http://webchat.quakenet.org/\" target=\"_new\">http://webchat.quakenet.org/</a> et commencez dans le coin supérieur gauche.<br />&nbsp;<br />Pour définir \"Infos irc\" ne copier/coller que la partie en gras ex: iframe src=\"http://webchat.quakenet.org/?<b>channels=votre-channel&uio=OT1</b>\"<br />&nbsp;<br />"
+msgstr "<br />&nbsp;<br />To create your channel, go to <a href=\"http://webchat.quakenet.org/\" target=\"_new\">http://webchat.quakenet.org/</a> and start in the top-left on your screen.<br />&nbsp;<br />To define \"Infos irc\", copy/past the part in bold  ex: iframe src=\"http://webchat.quakenet.org/?<b>channels=votre-channel&uio=OT1</b>\"<br />&nbsp;<br />"
+
+#: my-quakenet-irc/my_quake_net_irc.php:87
+msgid "Utiliser c&ocirc;t&eacute; forum ?"
+msgstr "Use on a forum ?"
+
+#: my-quakenet-irc/my_quake_net_irc.php:90
+msgid "Selectionnez pour utiliser My Quakenet irc sur un forum.<br />&nbsp;<br />Un bouton \"Quakenet\" permettra de cacher/voir la partie chat (voir readme.txt file pour l'int&eacute;gration)"
+msgstr "Select to use My QuakeNet irc on a forum.<br />&nbsp;<br />A button \"Quakenet\" will view/hide the chat (view readme.txt file fof forum integration)"
+
+#: my-quakenet-irc/my_quake_net_irc.php:98
+#: my-quakenet-irc/my_quake_net_irc.php:114
+#: my-quakenet-irc/my_quake_net_irc.php:130
+msgid "&nbsp;&nbsp;Si la largeur par d&eacute;faut automatique ne convient pas, d&eacute;finissez une nouvelle valeur<br />&nbsp;<br />"
+msgstr "&nbsp;&nbsp;If the automatic default width is not appropriate, set a new value<br />&nbsp;<br />"
+
+#: my-quakenet-irc/my_quake_net_irc.php:103
+msgid "Page (avec sidebar)"
+msgstr "Page (with sidebar"
+
+#: my-quakenet-irc/my_quake_net_irc.php:106
+msgid "Selectionnez pour utiliser My Quakenet irc dans une page avec sidebar.<br />&nbsp;<br />Copier/coller <b>[quakenet]</b> dans la page puis cliquez \"publier\""
+msgstr "Select My Quakenet irc to use a page with sidebar. <br />&nbsp;<br /> Copy / paste <b> [QuakeNet] </ b> in the page and click \"publish \""
+
+#: my-quakenet-irc/my_quake_net_irc.php:119
+msgid "Pleine page (sans sidebar)"
+msgstr "Full page (no sidebar)"
+
+#: my-quakenet-irc/my_quake_net_irc.php:122
+msgid "Selectionnez pour utiliser My Quakenet irc dans une page au format pleine page.<br />&nbsp;<br />Copier/coller <b>[quakenet]</b> dans la page, s&eacute;lectionnez one colum no sidebar puis cliquez \"publier\""
+msgstr "Select My Quakenet irc to use a page wih full page format. <br />&nbsp;<br /> Copy / paste <b> [QuakeNet] </ b> on the page, select one colum no sidebar and click \"published \""
+
+#: my-quakenet-irc/my_quake_net_irc.php:138
+msgid "Mettre &agrave; jour"
+msgstr "Update"
+
